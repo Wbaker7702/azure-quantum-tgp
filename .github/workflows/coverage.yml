@@ -3,6 +3,8 @@ name: coverage
 on:
   - push
 
+permissions:
+  contents: read
 jobs:
   coverage:
     if: ${{ false }}  # disable for now
