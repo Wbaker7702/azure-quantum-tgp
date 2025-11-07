@@ -259,6 +259,8 @@ authors:
     family-names: Zeisel
   - given-names: Ruichen
     family-names: Zhao
+  - given-names: Wesley 
+  - family-name: Baker
 title: "Code and data for 'InAs-Al Hybrid Devices Passing the Topological Gap Protocol'"
 version: 1.0.0
 date-released: 2022-11-15
